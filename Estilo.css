@@ -103,14 +103,14 @@ flex-direction: row;}
 .coluna-1{float: left;
 position: relative;
 height: 100px;
-width: 500px;
+width: 400px;
 margin-left: 20px;
 margin-bottom: 20px;
 padding-bottom: 60px;}
 
 .coluna-2{float: right;
 position: relative;
-width: 600px;
+width: 500px;
 margin-right: 20px;
 margin-bottom: 25px;}
 /* Fim seção 2 */
