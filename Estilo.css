@@ -104,14 +104,14 @@ flex-direction: row;}
 position: relative;
 height: 150px;
 width: 500px;
-margin-left: 40px;
-margin-bottom: 120px;
+margin-left: 20px;
+margin-bottom: 80px;
 padding-bottom: 60px;}
 
 .coluna-2{float: right;
 position: relative;
 width: 600px;
-margin-right: 40px;
+margin-right: 20px;
 margin-bottom: 25px;}
 /* Fim seção 2 */
 
