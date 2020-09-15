@@ -102,10 +102,10 @@ flex-direction: row;}
 
 .coluna-1{float: left;
 position: relative;
-height: 150px;
+height: 100px;
 width: 500px;
 margin-left: 20px;
-margin-bottom: 80px;
+margin-bottom: 20px;
 padding-bottom: 60px;}
 
 .coluna-2{float: right;
